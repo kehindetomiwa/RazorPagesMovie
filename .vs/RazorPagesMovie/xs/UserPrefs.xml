@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2DEFCFC7-D2AA-40D4-B4C3-3DDD596F4E38}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Startup.cs">
+    <Files>
+      <File FileName="RazorPagesMovie/Models/Movie.cs" Line="18" Column="1" />
+      <File FileName="RazorPagesMovie/Models/SeedData.cs" Line="30" Column="23" NotebookId="1" />
+      <File FileName="RazorPagesMovie/Program.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="RazorPagesMovie/appsettings.json" Line="1" Column="1" NotebookId="1" />
+      <File FileName="RazorPagesMovie/Startup.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPagesMovie" expanded="True">
+            <Node name="RazorPagesMovie" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMovie PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
